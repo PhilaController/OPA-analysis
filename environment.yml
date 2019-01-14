@@ -1,0 +1,12 @@
+name: OPA_analysis
+channels: 
+- pyviz
+- conda-forge
+- defaults
+dependencies:
+- geopandas
+- pandas
+- numpy
+- holoviews
+- geoviews
+- sklearn
