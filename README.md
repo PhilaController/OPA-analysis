@@ -1,4 +1,4 @@
-# OPA-analysis
+# Analyzing Philadelphia's Property Assessments
 
 The data and software used by the Office of the City Controller to perform its analysis of Philadelphia's
 property assessments can be found here. A full summary of our findings is presented in **link to report**.
