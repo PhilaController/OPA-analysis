@@ -3,9 +3,11 @@
 The data and software used by the Office of the City Controller to perform its analysis of Philadelphia's
 property assessments can be found here. A full summary of our findings is presented in **link to report**.
 
-Below, we provide links (the "Launch Binder" buttons) to two guides that walk through the analysis steps used by the Controller's Office. These guides are fully executable, meaning that after following the links below, each step of the analysis can be run and the results of the analysis reproduced (without installing any software on your local machine).
+Below, we provide links (the "Launch Binder" buttons) to two guides that walk through the analysis steps used by the Controller's Office. These guides are fully executable, meaning that after following the links below, each step of the analysis can be run and the results of the analysis reproduced (without installing any software on your local computer).
 
-The guides also provide more in-depth, technical explanations for the various steps involved in the analysis. The guides can often be slow to load – please be patient. 
+The guides also provide more in-depth, technical explanations for the various steps involved in the analysis. 
+
+**The guides can often be slow to load – please be patient.**
 
 
 ### Sales Ratio Study
