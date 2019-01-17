@@ -1,7 +1,7 @@
 # Analyzing Philadelphia's Property Assessments
 
 The data and software used by the Office of the City Controller to perform its analysis of Philadelphia's
-property assessments can be found here. A full summary of our findings is available in our report, entitled ["The Fairness and Accuracy of Philadelphia's Property Assessments"](https://controller.phila.gov/philadelphia-audits/property-assessment-review/)
+property assessments is available for download using the links above. A full summary of our findings is available in our report, entitled ["The Fairness and Accuracy of Philadelphia's Property Assessments."](https://controller.phila.gov/philadelphia-audits/property-assessment-review/)
 
 Below, we provide links (the "Launch Binder" buttons) to two guides that walk through the analysis steps used by the Controller's Office. These guides are fully executable, meaning that after following the links below, each step of the analysis can be run and the results of the analysis reproduced (without installing any software on your local computer).
 
